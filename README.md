@@ -42,3 +42,6 @@ How do you get ML models to train?
 For example, if you charge 1 VIRU to get the model but training the model gets 2 VIRU back, how do you prevent inflation?
 
 - Use something like [Moss](https://theory.stanford.edu/~aiken/moss/) to make sure that there every model is sufficiently different
+
+- Proof of work for ML
+  - ex. BlockML
