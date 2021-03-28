@@ -44,4 +44,5 @@ For example, if you charge 1 VIRU to get the model but training the model gets 2
 - Use something like [Moss](https://theory.stanford.edu/~aiken/moss/) to make sure that there every model is sufficiently different
 
 - Proof of work for ML
-  - ex. BlockML
+  - BlockML : https://ieeexplore.ieee.org/document/9348719
+  - https://arxiv.org/pdf/2001.09244.pdf
